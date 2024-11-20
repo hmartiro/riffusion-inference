@@ -5,6 +5,7 @@
 <a href="https://github.com/riffusion/riffusion/actions/workflows/ci.yml?query=branch%3Amain"><img alt="CI status" src="https://github.com/riffusion/riffusion/actions/workflows/ci.yml/badge.svg" /></a>
 <img alt="Python 3.9 | 3.10" src="https://img.shields.io/badge/Python-3.9%20%7C%203.10-blue" />
 <a href="https://github.com/riffusion/riffusion/tree/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellowgreen" /></a>
+[![Try a demo on Replicate](https://replicate.com/riffusion/riffusion/badge)](https://replicate.com/riffusion/riffusion)
 
 Riffusion is a library for real-time music and audio generation with stable diffusion.
 
